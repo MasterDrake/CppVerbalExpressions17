@@ -3,7 +3,7 @@ CppVerbalExpressions
 
 
 ## C++ Regular Expressions made easy
-VerbalExpressions is a C++17 Header library that helps to construct difficult regular expressions.
+VerbalExpressions is a C++17 Header library that helps to construct difficult regular expressions. It uses std::regex which explodes compilation times and it's very very slow.
 
 This C++ lib is based off of the (original) Javascript [VerbalExpressions](https://github.com/jehna/VerbalExpressions) library by [jehna](https://github.com/jehna/).
 
